@@ -1,4 +1,4 @@
-# Leitfaden für GitHub Desktop: Verwaltung von Power BI-Dateien (.pbix) für Einsteiger
+# Leitfaden für GitHub Desktop: Verwaltung von Power BI-Dateien (.pbix) für Noobs :D
 
 Dieser Leitfaden richtet sich an Einsteiger und ältere Nutzer:innen, die mit GitHub Desktop eine einfache und effiziente Versionskontrolle für Power BI-Dateien (.pbix) einrichten möchten. GitHub Desktop bietet eine benutzerfreundliche Oberfläche, die den Umgang mit Git erleichtert.
 
