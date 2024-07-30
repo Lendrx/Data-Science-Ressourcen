@@ -1,5 +1,5 @@
 
-# Nützliche Webseite:
+# Nützliche Webseiten:
   >> Create a README.md file:
       >> https://readme.so/de/editor
 
