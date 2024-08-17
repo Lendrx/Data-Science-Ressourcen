@@ -6,4 +6,6 @@
 >> Git - Large File Storage ( Versionskontrollen fuer Power BI Dateien )
     >> https://git-lfs.com/
 
->> Free API: https://cat-fact.herokuapp.com
+>> Free Test API: https://cat-fact.herokuapp.com
+
+>> Free API's: https://github.com/public-apis/public-apis
