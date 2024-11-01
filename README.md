@@ -10,4 +10,4 @@
 
 >> Free API's: https://github.com/public-apis/public-apis
 
->> Google Dataset Searchy: [(https://datasetsearch.research.google.com/)]
+>> Google Dataset Search: https://datasetsearch.research.google.com/
